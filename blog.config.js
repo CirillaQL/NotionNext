@@ -10,7 +10,6 @@ const BLOG = {
   SINCE: 2023, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'auto', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
-<<<<<<< HEAD
   AUTHOR: 'EduardoQian', // 作者
   BIO: '', // 作者简介
   LINK: '', // 网站地址
@@ -20,17 +19,6 @@ const BLOG = {
   CONTACT_WEIBO: '', // 你的微博个人主页
   CONTACT_TWITTER: '', // 你的twitter个人主页
   CONTACT_GITHUB: 'https://github.com/CirillaQL', // 你的github个人主页
-=======
-  AUTHOR: 'NotionNext', // 您的昵称 例如 tangly1024
-  BIO: '一个普通的干饭人🍚', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
-  KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
-  // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
-  CONTACT_EMAIL: '', // 邮箱地址 例如mail@tangly1024.com
-  CONTACT_WEIBO: '', // 你的微博个人主页
-  CONTACT_TWITTER: '', // 你的twitter个人主页
-  CONTACT_GITHUB: '', // 你的github个人主页 例如 https://github.com/tangly1024
->>>>>>> 339be04d0fa7396a6a0f88840335ad4e74081509
   CONTACT_TELEGRAM: '', // 你的telegram 地址 例如 https://t.me/tangly_1024
   CONTACT_LINKEDIN: '', // 你的linkedIn 首页
 
